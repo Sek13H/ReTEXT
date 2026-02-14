@@ -1,0 +1,13 @@
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\bin\Debug\ReTEXT.exe.config
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\bin\Debug\ReTEXT.exe
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\bin\Debug\ReTEXT.pdb
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.csproj.AssemblyReference.cache
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.MainForm.resources
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.Properties.Resources.resources
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.csproj.GenerateResource.cache
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.exe
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.pdb
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.FindForm.resources
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.AboutForm.resources
+C:\Users\igor\Desktop\tools\ReTools\ReTEXT\C#\GUI\ReTEXT\ReTEXT\obj\Debug\ReTEXT.SettingForm.resources
